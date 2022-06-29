@@ -1,5 +1,6 @@
 ![](https://user-images.githubusercontent.com/107453434/176463015-4baad7de-f888-4a12-9a30-4d059fb5d498.jpg)
 ### Hi there 👋, I am  Md. Mostafizur Rahman
+<hr/>
 
 I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel Framework but some Creativity I enjoy working with include Photoshop.
 
